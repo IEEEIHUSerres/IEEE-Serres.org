@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IEEE-Serres.org/static/css/main.5f361e03.chunk.css",
+    "main.js": "/IEEE-Serres.org/static/js/main.e4ea68af.chunk.js",
+    "main.js.map": "/IEEE-Serres.org/static/js/main.e4ea68af.chunk.js.map",
+    "runtime-main.js": "/IEEE-Serres.org/static/js/runtime-main.31a32af9.js",
+    "runtime-main.js.map": "/IEEE-Serres.org/static/js/runtime-main.31a32af9.js.map",
+    "static/js/2.1b768444.chunk.js": "/IEEE-Serres.org/static/js/2.1b768444.chunk.js",
+    "static/js/2.1b768444.chunk.js.map": "/IEEE-Serres.org/static/js/2.1b768444.chunk.js.map",
+    "index.html": "/IEEE-Serres.org/index.html",
+    "precache-manifest.78695eacd34d998869821e00f92e0b37.js": "/IEEE-Serres.org/precache-manifest.78695eacd34d998869821e00f92e0b37.js",
+    "service-worker.js": "/IEEE-Serres.org/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/IEEE-Serres.org/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1b768444.chunk.js.LICENSE.txt": "/IEEE-Serres.org/static/js/2.1b768444.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/IEEE-Serres.org/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a32af9.js",
+    "static/js/2.1b768444.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e4ea68af.chunk.js"
+  ]
+}
