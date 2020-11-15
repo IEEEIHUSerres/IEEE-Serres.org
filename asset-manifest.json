@@ -1,34 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.9fe3c364.chunk.css",
-    "main.js": "/static/js/main.58676a43.chunk.js",
-    "main.js.map": "/static/js/main.58676a43.chunk.js.map",
+    "main.js": "/static/js/main.4161e655.chunk.js",
+    "main.js.map": "/static/js/main.4161e655.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2023949c.js",
     "runtime-main.js.map": "/static/js/runtime-main.2023949c.js.map",
     "static/css/2.9eab568d.chunk.css": "/static/css/2.9eab568d.chunk.css",
     "static/js/2.6d1d305a.chunk.js": "/static/js/2.6d1d305a.chunk.js",
     "static/js/2.6d1d305a.chunk.js.map": "/static/js/2.6d1d305a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.93eed666a04b2010f23647e527270abb.js": "/precache-manifest.93eed666a04b2010f23647e527270abb.js",
+    "precache-manifest.daee308c0a562c23824e6228ea526347.js": "/precache-manifest.daee308c0a562c23824e6228ea526347.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9eab568d.chunk.css.map": "/static/css/2.9eab568d.chunk.css.map",
     "static/css/main.9fe3c364.chunk.css.map": "/static/css/main.9fe3c364.chunk.css.map",
     "static/js/2.6d1d305a.chunk.js.LICENSE.txt": "/static/js/2.6d1d305a.chunk.js.LICENSE.txt",
-    "static/media/automation.png": "/static/media/automation.dbd984a1.png",
-    "static/media/hardware.png": "/static/media/hardware.04cb5b2a.png",
-    "static/media/hermes.jpg": "/static/media/hermes.00cf541e.jpg",
+    "static/media/automation.jpg": "/static/media/automation.6e480df7.jpg",
+    "static/media/hardware.jpg": "/static/media/hardware.bea026ed.jpg",
+    "static/media/hermes.jpg": "/static/media/hermes.b6801d59.jpg",
     "static/media/ieee.svg": "/static/media/ieee.c1691193.svg",
-    "static/media/networking.png": "/static/media/networking.ce49b7f3.png",
-    "static/media/programming.png": "/static/media/programming.e9286051.png",
-    "static/media/robotics.png": "/static/media/robotics.38846148.png",
-    "static/media/socialmedia.jpg": "/static/media/socialmedia.f1849094.jpg",
-    "static/media/team.jpg": "/static/media/team.fe44e940.jpg"
+    "static/media/networking.jpg": "/static/media/networking.8903ccda.jpg",
+    "static/media/programming.jpg": "/static/media/programming.c4872f2d.jpg",
+    "static/media/robotics.jpg": "/static/media/robotics.1a054dbe.jpg",
+    "static/media/socialmedia.jpg": "/static/media/socialmedia.130e345c.jpg",
+    "static/media/team.jpg": "/static/media/team.63343663.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2023949c.js",
     "static/css/2.9eab568d.chunk.css",
     "static/js/2.6d1d305a.chunk.js",
     "static/css/main.9fe3c364.chunk.css",
-    "static/js/main.58676a43.chunk.js"
+    "static/js/main.4161e655.chunk.js"
   ]
 }
