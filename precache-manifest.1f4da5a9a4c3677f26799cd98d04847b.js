@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76443397e0ab3827e4882bd5db49dd7b",
+    "revision": "b521081e1dfaf75d2eb62e144f1403e7",
     "url": "/index.html"
   },
   {
-    "revision": "a52a84477300889c9c6b",
+    "revision": "e654f1767055f9a6725b",
     "url": "/static/css/2.9eab568d.chunk.css"
   },
   {
-    "revision": "4f3bd7e82ac0319d44ae",
-    "url": "/static/css/main.8395b720.chunk.css"
+    "revision": "202946ca6499c851b6bb",
+    "url": "/static/css/main.df70f005.chunk.css"
   },
   {
-    "revision": "a52a84477300889c9c6b",
-    "url": "/static/js/2.2f9875fa.chunk.js"
+    "revision": "e654f1767055f9a6725b",
+    "url": "/static/js/2.a587b94d.chunk.js"
   },
   {
     "revision": "a7aec927f1e863a53de22e58e5329447",
-    "url": "/static/js/2.2f9875fa.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a587b94d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f3bd7e82ac0319d44ae",
-    "url": "/static/js/main.00967d20.chunk.js"
+    "revision": "202946ca6499c851b6bb",
+    "url": "/static/js/main.c5f0579f.chunk.js"
   },
   {
     "revision": "bb6c5badedce47c68f41",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ba75cb1ce6d28ef93f589368f8314b27",
     "url": "/static/media/hermes.ba75cb1c.webp"
+  },
+  {
+    "revision": "8ec06c3dcabb458115066b97cc6e3cda",
+    "url": "/static/media/hsyp-athens.8ec06c3d.webp"
   },
   {
     "revision": "643968f919dd73c8fb8762a664520eed",
@@ -124,11 +128,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/robotics.1157bcae.webp"
   },
   {
+    "revision": "564861a169c4272cbe38f6c43b32ff2d",
+    "url": "/static/media/serres-logo.564861a1.webp"
+  },
+  {
     "revision": "103591a6bb125b32ce11e157e6b0a948",
     "url": "/static/media/socialmedia.103591a6.webp"
   },
   {
     "revision": "c5f24889d776b7e855501b775976c3ef",
     "url": "/static/media/team.c5f24889.webp"
+  },
+  {
+    "revision": "52fbbad139321785ba9006a9a39cf644",
+    "url": "/static/media/tif.52fbbad1.webp"
   }
 ]);
