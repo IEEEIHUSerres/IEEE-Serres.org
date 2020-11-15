@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "334456da4c75777dce9c39140125248d",
+    "revision": "cf105dd919d31ba868b4ad70115a44ce",
     "url": "/index.html"
   },
   {
-    "revision": "0e7c3ced6660834e08f0",
+    "revision": "950292983ce3b28c193c",
     "url": "/static/css/2.9eab568d.chunk.css"
   },
   {
-    "revision": "120ed8f323fed92853ef",
-    "url": "/static/css/main.16f6e81b.chunk.css"
+    "revision": "d34db5b591dd374ab73d",
+    "url": "/static/css/main.a2125244.chunk.css"
   },
   {
-    "revision": "0e7c3ced6660834e08f0",
-    "url": "/static/js/2.fd8ebb67.chunk.js"
+    "revision": "950292983ce3b28c193c",
+    "url": "/static/js/2.97fbd2cb.chunk.js"
   },
   {
     "revision": "a7aec927f1e863a53de22e58e5329447",
-    "url": "/static/js/2.fd8ebb67.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.97fbd2cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "120ed8f323fed92853ef",
-    "url": "/static/js/main.6f7ac6ea.chunk.js"
+    "revision": "d34db5b591dd374ab73d",
+    "url": "/static/js/main.cd77e069.chunk.js"
   },
   {
     "revision": "bb6c5badedce47c68f41",
     "url": "/static/js/runtime-main.2023949c.js"
+  },
+  {
+    "revision": "b81cd5d70f91ffac1e0d9dab393e8c58",
+    "url": "/static/media/3rd-Summer-Engineering-Academy.b81cd5d7.webp"
   },
   {
     "revision": "ce95a0e25a11b62cc614a6b35db9795e",
@@ -48,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ieee-ras.108b1656.webp"
   },
   {
+    "revision": "94d7de93378a81ea5bd705174c3ab3fc",
+    "url": "/static/media/ieee-sb-award.94d7de93.webp"
+  },
+  {
     "revision": "e05b6fd8f04aee90e10e675dcce8ccbb",
     "url": "/static/media/ieee-wie.e05b6fd8.webp"
   },
@@ -56,8 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ieee.60828cf8.webp"
   },
   {
+    "revision": "ca5039b56db5c0067ee47140257fa295",
+    "url": "/static/media/ihu-robotics.ca5039b5.webp"
+  },
+  {
     "revision": "79aa2d37f728b6783eeece0eb151a6a6",
     "url": "/static/media/ihu.79aa2d37.webp"
+  },
+  {
+    "revision": "d8ed932e90816a206e3ed079d4fa5373",
+    "url": "/static/media/kotsovolos-hermes.d8ed932e.webp"
   },
   {
     "revision": "1815562b840a6150f25e1e5fac98ab7b",
