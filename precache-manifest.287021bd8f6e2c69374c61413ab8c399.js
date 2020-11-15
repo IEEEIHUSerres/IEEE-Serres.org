@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b521081e1dfaf75d2eb62e144f1403e7",
+    "revision": "3193e47a0913fba8b213f7e717819f65",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.9eab568d.chunk.css"
   },
   {
-    "revision": "202946ca6499c851b6bb",
-    "url": "/static/css/main.df70f005.chunk.css"
+    "revision": "a82be075e7ba468da431",
+    "url": "/static/css/main.5a53da33.chunk.css"
   },
   {
     "revision": "e654f1767055f9a6725b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.a587b94d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "202946ca6499c851b6bb",
-    "url": "/static/js/main.c5f0579f.chunk.js"
+    "revision": "a82be075e7ba468da431",
+    "url": "/static/js/main.f4629a75.chunk.js"
   },
   {
     "revision": "bb6c5badedce47c68f41",
@@ -32,28 +32,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/3rd-Summer-Engineering-Academy.b81cd5d7.webp"
   },
   {
-    "revision": "30de449fac23f9bde6cd22c60777e159",
-    "url": "/static/media/Alexandra_Salpigkti.30de449f.webp"
+    "revision": "6a3075db26c5ae9fa2b8f910047cbbb4",
+    "url": "/static/media/Efstathiou.6a3075db.webp"
   },
   {
-    "revision": "781e9c44ac8207ddde5d5132b701806e",
-    "url": "/static/media/Dimitrios-Efstathiou.781e9c44.webp"
+    "revision": "fe92ba0d0056c706adf6ac8308f1f3fc",
+    "url": "/static/media/Kokozidis.fe92ba0d.webp"
   },
   {
-    "revision": "9009b0e7ee3f898acde8670e6ec44e14",
-    "url": "/static/media/Iordanis_Kostelidis.9009b0e7.webp"
+    "revision": "53190a985182c15ed142d1763511646c",
+    "url": "/static/media/Kostelidis.53190a98.webp"
   },
   {
-    "revision": "87bd22c0d95ee3f4c485cb19fa6064f4",
-    "url": "/static/media/Myrsini_Stasinou.87bd22c0.webp"
+    "revision": "53fca0284b2edf9ec0e5c8b3d88ec082",
+    "url": "/static/media/Mitsopoulou.53fca028.webp"
   },
   {
-    "revision": "1c850e59d16b76815f7777589e2f57ad",
-    "url": "/static/media/Pavlos_Kokozidis.1c850e59.webp"
+    "revision": "1e5364d68974bd7a1a99aa97d1eabbce",
+    "url": "/static/media/Salpigkti.1e5364d6.webp"
   },
   {
-    "revision": "392ae640cd4ade84bd2efb537fb6cead",
-    "url": "/static/media/Stavros_Vologiannidis.392ae640.webp"
+    "revision": "bb49db8d13d0e70a2b125ea9e6612e67",
+    "url": "/static/media/Stasinou.bb49db8d.webp"
+  },
+  {
+    "revision": "c436876d372855bdb2ac9cc5b9bd3439",
+    "url": "/static/media/Vologiannidis.c436876d.webp"
   },
   {
     "revision": "ce95a0e25a11b62cc614a6b35db9795e",
@@ -106,10 +110,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79aa2d37f728b6783eeece0eb151a6a6",
     "url": "/static/media/ihu.79aa2d37.webp"
-  },
-  {
-    "revision": "c4d0bdfff9d6f301239b1d95697f391c",
-    "url": "/static/media/katerina_mitsopoulou_march_2020.c4d0bdff.webp"
   },
   {
     "revision": "d8ed932e90816a206e3ed079d4fa5373",
