@@ -1,0 +1,12 @@
+.about > .row > .title {
+    text-align: center;
+    font-size: 2em;
+}
+
+.about-image {
+    text-align: center;
+}
+
+.about-text {
+    text-align: justify;
+}

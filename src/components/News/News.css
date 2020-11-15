@@ -1,0 +1,5 @@
+.news > .row > .col.title {
+    margin: 1em;
+    font-size: 2em;
+    text-align: center;
+}

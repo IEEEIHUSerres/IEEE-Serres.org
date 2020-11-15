@@ -1,0 +1,26 @@
+.title-icon {
+    margin-left: 1em;
+}
+
+.title-icon > img {
+    height: 4em;
+    margin-right: -1.5em;
+    margin-left: -1.5em;
+}
+
+.title-text {
+    margin-left: 1em;
+}
+
+.title-sb {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.title-uni {
+    font-size: 0.8em;
+}
+
+.title-campus {
+    font-size: 0.7em;
+}

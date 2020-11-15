@@ -1,0 +1,13 @@
+.about {
+    margin: 1em;
+}
+
+.about > .title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.about > p {
+    text-align: justify;
+}

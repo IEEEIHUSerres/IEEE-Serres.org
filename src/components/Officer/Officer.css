@@ -1,0 +1,19 @@
+.officer {
+    text-align: center;
+    padding: 1em;
+}
+
+.officer > .row > .col > .image {
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+}
+
+.officer > .row > .col > .name {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.officer > .row > .col > .row > .col > .role-ou {
+    font-size: 0.8em;
+}

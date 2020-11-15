@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+for file in *.png ; do cwebp -q 50 "$file" -o "${file%.png}.webp"; done

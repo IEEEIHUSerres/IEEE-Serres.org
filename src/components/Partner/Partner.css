@@ -1,0 +1,7 @@
+.partner {
+    text-align: center;
+}
+
+.partner > a > img {
+    width: 15em;
+}

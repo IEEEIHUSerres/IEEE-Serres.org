@@ -1,0 +1,12 @@
+.affiliates {
+    margin: 1em;
+}
+
+.affiliate {
+    text-align: center;
+    margin: 0.5em;
+}
+
+.affiliate > a > img {
+    width: 9em;
+}

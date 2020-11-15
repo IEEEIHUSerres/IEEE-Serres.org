@@ -1,0 +1,15 @@
+.unit {
+    text-align: center;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.unit > div {
+    text-align: justify;
+    margin: 2em;
+}
+
+.unit > a > img {
+    text-align: center;
+    width: 15em;
+}
