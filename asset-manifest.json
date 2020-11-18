@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.5a53da33.chunk.css",
-    "main.js": "/static/js/main.f4629a75.chunk.js",
-    "main.js.map": "/static/js/main.f4629a75.chunk.js.map",
+    "main.js": "/static/js/main.ebcef014.chunk.js",
+    "main.js.map": "/static/js/main.ebcef014.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2023949c.js",
     "runtime-main.js.map": "/static/js/runtime-main.2023949c.js.map",
     "static/css/2.9eab568d.chunk.css": "/static/css/2.9eab568d.chunk.css",
     "static/js/2.a587b94d.chunk.js": "/static/js/2.a587b94d.chunk.js",
     "static/js/2.a587b94d.chunk.js.map": "/static/js/2.a587b94d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.287021bd8f6e2c69374c61413ab8c399.js": "/precache-manifest.287021bd8f6e2c69374c61413ab8c399.js",
+    "precache-manifest.9c40439f4b2c28a44c8908c5993456db.js": "/precache-manifest.9c40439f4b2c28a44c8908c5993456db.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9eab568d.chunk.css.map": "/static/css/2.9eab568d.chunk.css.map",
     "static/css/main.5a53da33.chunk.css.map": "/static/css/main.5a53da33.chunk.css.map",
@@ -29,7 +29,7 @@
     "static/media/ieee-ihu-thessaloniki.webp": "/static/media/ieee-ihu-thessaloniki.643968f9.webp",
     "static/media/ieee-ihu.webp": "/static/media/ieee-ihu.a9e1800b.webp",
     "static/media/ieee-ras.webp": "/static/media/ieee-ras.108b1656.webp",
-    "static/media/ieee-sb-award.webp": "/static/media/ieee-sb-award.94d7de93.webp",
+    "static/media/ieee-sb-award.webp": "/static/media/ieee-sb-award.c7dedd95.webp",
     "static/media/ieee-uth-volos.webp": "/static/media/ieee-uth-volos.850cc72c.webp",
     "static/media/ieee-wie.webp": "/static/media/ieee-wie.e05b6fd8.webp",
     "static/media/ieee.webp": "/static/media/ieee.60828cf8.webp",
@@ -49,6 +49,6 @@
     "static/css/2.9eab568d.chunk.css",
     "static/js/2.a587b94d.chunk.js",
     "static/css/main.5a53da33.chunk.css",
-    "static/js/main.f4629a75.chunk.js"
+    "static/js/main.ebcef014.chunk.js"
   ]
 }
