@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86adf484c30c2e15e8001490d12a9d65",
+    "revision": "793b76abd161e07bc133297ce930cbca",
     "url": "/index.html"
   },
   {
-    "revision": "985ef25e0ae103a7f8d0",
+    "revision": "e779ebda705f4d228c00",
     "url": "/static/css/2.9eab568d.chunk.css"
   },
   {
-    "revision": "4675d57db57736ade8cd",
-    "url": "/static/css/main.1a8e5e66.chunk.css"
+    "revision": "ec3aa4e879a17472992c",
+    "url": "/static/css/main.addd0386.chunk.css"
   },
   {
-    "revision": "985ef25e0ae103a7f8d0",
-    "url": "/static/js/2.2e771300.chunk.js"
+    "revision": "e779ebda705f4d228c00",
+    "url": "/static/js/2.17b19b91.chunk.js"
   },
   {
     "revision": "6742fe512b62d00c18e71079151c3408",
-    "url": "/static/js/2.2e771300.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.17b19b91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4675d57db57736ade8cd",
-    "url": "/static/js/main.4568f4b7.chunk.js"
+    "revision": "ec3aa4e879a17472992c",
+    "url": "/static/js/main.210c35b7.chunk.js"
   },
   {
     "revision": "bb6c5badedce47c68f41",
@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/electronics.0e8f0376.webp"
   },
   {
+    "revision": "50eb96500907df9661f6e34e77ed4641",
+    "url": "/static/media/ieee-hsyp-2019.50eb9650.webp"
+  },
+  {
     "revision": "643968f919dd73c8fb8762a664520eed",
     "url": "/static/media/ieee-ihu-thessaloniki.643968f9.webp"
   },
@@ -76,8 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ieee-ras.108b1656.webp"
   },
   {
+    "revision": "d62245f9ba15b96ad9086e20ce74a92e",
+    "url": "/static/media/ieee-sb-award-2019.d62245f9.webp"
+  },
+  {
     "revision": "c7dedd950df2f80132055da20fcbb95a",
-    "url": "/static/media/ieee-sb-award.c7dedd95.webp"
+    "url": "/static/media/ieee-sb-award-2020.c7dedd95.webp"
   },
   {
     "revision": "850cc72c698d2e357ce2eef0cc99268d",
@@ -134,5 +142,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "54ca22760fdd1f1cd191d548185429ca",
     "url": "/static/media/social.54ca2276.webp"
+  },
+  {
+    "revision": "d387c4e74bd158fc19819aa1bf82d53f",
+    "url": "/static/media/tif-2019.d387c4e7.webp"
   }
 ]);
