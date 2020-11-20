@@ -3,8 +3,8 @@ import Row from "react-bootstrap/cjs/Row";
 import Col from "react-bootstrap/cjs/Col";
 
 import ieeeTeiSerresLogo from './../../resources/about/serres-logo.webp';
-import ieeeHsypAthensLogo from './../../resources/about/hsyp-athens.webp';
-import tif2019 from './../../resources/about/tif.webp';
+import ieeeTeicm from './../../resources/about/sb-teicm.webp';
+import ieeeIhu from './../../resources/about/sb-ihu.webp';
 
 import './About.css'
 
@@ -25,7 +25,7 @@ class About extends Component {
                             participate in competitions and organize lectures for all students.
                         </div>
                         <div className="about-image">
-                            <img src={ieeeTeiSerresLogo} alt="IEEE TEI Serres"/>
+                            <img className="img-fluid" src={ieeeTeiSerresLogo} alt="IEEE Student Branch TEI Serres"/>
                         </div>
                         <div className="about-text">
                             The IEEE Student Branch organizes events (eg Arduino Day, Blockchain) and competitions (eg
@@ -35,7 +35,7 @@ class About extends Component {
                             Region 8 Student Paper Contest).
                         </div>
                         <div className="about-image">
-                            <img src={ieeeHsypAthensLogo} alt="IEEE HSYP Athens 2017"/>
+                            <img className="img-fluid" src={ieeeTeicm} alt="IEEE Student Branch TEI Central Macedonia"/>
                         </div>
                         <div className="about-text">
                             Due to the synergy of the 4 Universities (International Hellenic University, Alexander TEI
@@ -45,7 +45,7 @@ class About extends Component {
                             essentially one team as IEEE Student Branch - International Hellenic University.
                         </div>
                         <div className="about-image">
-                            <img src={tif2019} alt="TIF 2019 - IEEE Serres, Thessaloniki, Xanthi"/>
+                            <img className="img-fluid" src={ieeeIhu} alt="IEEE Student Branches International Hellenic University"/>
                         </div>
                         <div className="about-text">
                             Due to the ease of operations and due to the large geographical distance

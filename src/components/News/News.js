@@ -18,7 +18,7 @@ class News extends Component {
                 "content": "Our branch, alongside with 6 other Greek branches, won the " +
                     "IEEE Exemplary Student Branch Award.",
                 "image": ieeeSbAwardImage,
-                "link": "https://www.facebook.com/ieee.r8sac/posts/10158738221401912",
+                "link": "https://www.facebook.com/IEEEStudents/posts/3629135570478685",
                 "buttonTitle": "Official Results"
             },
             {

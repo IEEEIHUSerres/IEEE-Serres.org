@@ -1,14 +1,12 @@
 import React, {Component} from "react";
 import AliceCarousel from "react-alice-carousel";
 
-import ourTeam from '../../resources/slider/team.webp'
+import ourTeam from '../../resources/slider/sb.webp'
 import programmingTeam from '../../resources/slider/programming.webp'
-import networkingTeam from '../../resources/slider/networking.webp'
-import hardwareTeam from '../../resources/slider/hardware.webp'
+import networkingTeam from '../../resources/slider/networks.webp'
+import hardwareTeam from '../../resources/slider/electronics.webp'
 import roboticsTeam from '../../resources/slider/robotics.webp'
-import automationTeam from '../../resources/slider/automation.webp'
-import socialMediaTeam from '../../resources/slider/socialmedia.webp'
-import hermesTeam from '../../resources/slider/hermes.webp'
+import socialMediaTeam from '../../resources/slider/social.webp'
 
 import './Slider.css'
 
@@ -19,7 +17,7 @@ class Slider extends Component {
         const slides = [
             {
                 image: ourTeam,
-                title: "Meet our Teams"
+                title: "Meet our team"
             },
             {
                 image: programmingTeam,
@@ -35,20 +33,12 @@ class Slider extends Component {
             },
             {
                 image: roboticsTeam,
-                title: "Robotics Team"
-            },
-            {
-                image: automationTeam,
-                title: "Automation Team"
+                title: "Robotics & Automation Team"
             },
             {
                 image: socialMediaTeam,
                 title: "Social Media and PR Team"
             },
-            {
-                image: hermesTeam,
-                title: "HERMES Team (Exoskeleton)"
-            }
         ]
 
         return (

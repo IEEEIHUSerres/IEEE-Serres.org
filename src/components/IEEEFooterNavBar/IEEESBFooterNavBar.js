@@ -42,7 +42,7 @@ class IEEESBFooterNavBar extends Component {
 
 
         return (
-            <ButtonGroup className="flex-wrap footer-navbar">
+            <ButtonGroup className="flex-wrap footer-navbar d-none d-lg-block">
                 {
                     items.map(item => {
                         const {title, url} = item;

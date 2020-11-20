@@ -3,13 +3,13 @@ import Officer from "../Officer/Officer";
 import Row from "react-bootstrap/cjs/Row";
 import Col from "react-bootstrap/cjs/Col";
 
-import Efstathiou from './../../resources/officers/Dimitrios-Efstathiou.webp'
-import Vologiannidis from './../../resources/officers/Stavros_Vologiannidis.webp'
-import Kostelidis from './../../resources/officers/Iordanis_Kostelidis.webp'
-import Salpigkti from './../../resources/officers/Alexandra_Salpigkti.webp'
-import Stasinou from './../../resources/officers/Myrsini_Stasinou.webp'
-import Mitsopoulou from './../../resources/officers/katerina_mitsopoulou_march_2020.webp'
-import Kokozidis from './../../resources/officers/Pavlos_Kokozidis.webp'
+import Efstathiou from './../../resources/officers/Efstathiou.webp'
+import Vologiannidis from './../../resources/officers/Vologiannidis.webp'
+import Kostelidis from './../../resources/officers/Kostelidis.webp'
+import Salpigkti from './../../resources/officers/Salpigkti.webp'
+import Stasinou from './../../resources/officers/Stasinou.webp'
+import Mitsopoulou from './../../resources/officers/Mitsopoulou.webp'
+import Kokozidis from './../../resources/officers/Kokozidis.webp'
 
 import './Officers.css'
 
