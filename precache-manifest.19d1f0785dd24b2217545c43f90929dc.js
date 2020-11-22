@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "793b76abd161e07bc133297ce930cbca",
+    "revision": "867505259fe0783fe0f1675c5e8e0599",
     "url": "/index.html"
   },
   {
-    "revision": "e779ebda705f4d228c00",
+    "revision": "86bf996698e8e7caf361",
     "url": "/static/css/2.9eab568d.chunk.css"
   },
   {
-    "revision": "ec3aa4e879a17472992c",
-    "url": "/static/css/main.addd0386.chunk.css"
+    "revision": "f3ae29272a09a3625c01",
+    "url": "/static/css/main.dfe8cef2.chunk.css"
   },
   {
-    "revision": "e779ebda705f4d228c00",
-    "url": "/static/js/2.17b19b91.chunk.js"
+    "revision": "86bf996698e8e7caf361",
+    "url": "/static/js/2.15053909.chunk.js"
   },
   {
-    "revision": "6742fe512b62d00c18e71079151c3408",
-    "url": "/static/js/2.17b19b91.chunk.js.LICENSE.txt"
+    "revision": "75f4333d59702b455e64b78dd9666cfb",
+    "url": "/static/js/2.15053909.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec3aa4e879a17472992c",
-    "url": "/static/js/main.210c35b7.chunk.js"
+    "revision": "f3ae29272a09a3625c01",
+    "url": "/static/js/main.402eb409.chunk.js"
   },
   {
     "revision": "bb6c5badedce47c68f41",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a3075db26c5ae9fa2b8f910047cbbb4",
     "url": "/static/media/Efstathiou.6a3075db.webp"
+  },
+  {
+    "revision": "d5a4a145abaf8b5739118ee894d7344b",
+    "url": "/static/media/How-I-Learned-to-Stop-Worrying-About-GPS.d5a4a145.webp"
   },
   {
     "revision": "fe92ba0d0056c706adf6ac8308f1f3fc",
@@ -62,6 +66,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0e8f03766060598938fb8ddeeb18af68",
     "url": "/static/media/electronics.0e8f0376.webp"
+  },
+  {
+    "revision": "24ebcfa10d596235aab983da88bb21dd",
+    "url": "/static/media/hashcode-2020.24ebcfa1.webp"
+  },
+  {
+    "revision": "a8fd3012f77c7b060cbac8234df60de0",
+    "url": "/static/media/ieee-day-2020.a8fd3012.webp"
   },
   {
     "revision": "50eb96500907df9661f6e34e77ed4641",
@@ -98,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "60828cf80ac5784d236b7f28871dd2f2",
     "url": "/static/media/ieee.60828cf8.webp"
+  },
+  {
+    "revision": "0abbeeb0acacc3fec04fd59d3b5361d3",
+    "url": "/static/media/ieeextreme-code-talk-2020.0abbeeb0.webp"
   },
   {
     "revision": "ca5039b56db5c0067ee47140257fa295",
