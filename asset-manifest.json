@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.dfe8cef2.chunk.css",
-    "main.js": "/static/js/main.402eb409.chunk.js",
-    "main.js.map": "/static/js/main.402eb409.chunk.js.map",
+    "main.js": "/static/js/main.79f71034.chunk.js",
+    "main.js.map": "/static/js/main.79f71034.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2023949c.js",
     "runtime-main.js.map": "/static/js/runtime-main.2023949c.js.map",
     "static/css/2.9eab568d.chunk.css": "/static/css/2.9eab568d.chunk.css",
-    "static/js/2.15053909.chunk.js": "/static/js/2.15053909.chunk.js",
-    "static/js/2.15053909.chunk.js.map": "/static/js/2.15053909.chunk.js.map",
+    "static/js/2.84aac6ea.chunk.js": "/static/js/2.84aac6ea.chunk.js",
+    "static/js/2.84aac6ea.chunk.js.map": "/static/js/2.84aac6ea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.19d1f0785dd24b2217545c43f90929dc.js": "/precache-manifest.19d1f0785dd24b2217545c43f90929dc.js",
+    "precache-manifest.276044ecc7fa9cb5e27d8e2e84483e77.js": "/precache-manifest.276044ecc7fa9cb5e27d8e2e84483e77.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9eab568d.chunk.css.map": "/static/css/2.9eab568d.chunk.css.map",
     "static/css/main.dfe8cef2.chunk.css.map": "/static/css/main.dfe8cef2.chunk.css.map",
-    "static/js/2.15053909.chunk.js.LICENSE.txt": "/static/js/2.15053909.chunk.js.LICENSE.txt",
+    "static/js/2.84aac6ea.chunk.js.LICENSE.txt": "/static/js/2.84aac6ea.chunk.js.LICENSE.txt",
     "static/media/3rd-Summer-Engineering-Academy.webp": "/static/media/3rd-Summer-Engineering-Academy.b81cd5d7.webp",
     "static/media/Efstathiou.webp": "/static/media/Efstathiou.6a3075db.webp",
     "static/media/How-I-Learned-to-Stop-Worrying-About-GPS.webp": "/static/media/How-I-Learned-to-Stop-Worrying-About-GPS.d5a4a145.webp",
@@ -25,6 +25,9 @@
     "static/media/Vologiannidis.webp": "/static/media/Vologiannidis.c436876d.webp",
     "static/media/electronics.webp": "/static/media/electronics.0e8f0376.webp",
     "static/media/hashcode-2020.webp": "/static/media/hashcode-2020.24ebcfa1.webp",
+    "static/media/hermes-better-life-challenge-2020.webp": "/static/media/hermes-better-life-challenge-2020.91bf0dea.webp",
+    "static/media/ieee-award-2019.webp": "/static/media/ieee-award-2019.2d63a9e9.webp",
+    "static/media/ieee-award-2020.webp": "/static/media/ieee-award-2020.196e2583.webp",
     "static/media/ieee-day-2020.webp": "/static/media/ieee-day-2020.a8fd3012.webp",
     "static/media/ieee-hsyp-2019.webp": "/static/media/ieee-hsyp-2019.50eb9650.webp",
     "static/media/ieee-ihu-thessaloniki.webp": "/static/media/ieee-ihu-thessaloniki.643968f9.webp",
@@ -52,8 +55,8 @@
   "entrypoints": [
     "static/js/runtime-main.2023949c.js",
     "static/css/2.9eab568d.chunk.css",
-    "static/js/2.15053909.chunk.js",
+    "static/js/2.84aac6ea.chunk.js",
     "static/css/main.dfe8cef2.chunk.css",
-    "static/js/main.402eb409.chunk.js"
+    "static/js/main.79f71034.chunk.js"
   ]
 }

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "867505259fe0783fe0f1675c5e8e0599",
+    "revision": "69621c6c04fab2c41d339cb380896801",
     "url": "/index.html"
   },
   {
-    "revision": "86bf996698e8e7caf361",
+    "revision": "66ed169f6c8da17b00b5",
     "url": "/static/css/2.9eab568d.chunk.css"
   },
   {
-    "revision": "f3ae29272a09a3625c01",
+    "revision": "bb07f7a20d4881d2d62c",
     "url": "/static/css/main.dfe8cef2.chunk.css"
   },
   {
-    "revision": "86bf996698e8e7caf361",
-    "url": "/static/js/2.15053909.chunk.js"
+    "revision": "66ed169f6c8da17b00b5",
+    "url": "/static/js/2.84aac6ea.chunk.js"
   },
   {
     "revision": "75f4333d59702b455e64b78dd9666cfb",
-    "url": "/static/js/2.15053909.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.84aac6ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3ae29272a09a3625c01",
-    "url": "/static/js/main.402eb409.chunk.js"
+    "revision": "bb07f7a20d4881d2d62c",
+    "url": "/static/js/main.79f71034.chunk.js"
   },
   {
     "revision": "bb6c5badedce47c68f41",
@@ -70,6 +70,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "24ebcfa10d596235aab983da88bb21dd",
     "url": "/static/media/hashcode-2020.24ebcfa1.webp"
+  },
+  {
+    "revision": "91bf0deab0d9232fa345caa31a286286",
+    "url": "/static/media/hermes-better-life-challenge-2020.91bf0dea.webp"
+  },
+  {
+    "revision": "2d63a9e972f9848e041a0e45af4dd82b",
+    "url": "/static/media/ieee-award-2019.2d63a9e9.webp"
+  },
+  {
+    "revision": "196e25832360ffa0f02bf7239c44fc35",
+    "url": "/static/media/ieee-award-2020.196e2583.webp"
   },
   {
     "revision": "a8fd3012f77c7b060cbac8234df60de0",
