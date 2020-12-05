@@ -18,7 +18,9 @@ class IEEESBNavBarItems extends Component {
                 <Nav className="mr-auto">
                     <Nav.Link onSelect={this.toggleNavbar} href="/#">Home</Nav.Link>
                     <Nav.Link onSelect={this.toggleNavbar} href="/#news">News</Nav.Link>
+                    <Nav.Link onSelect={this.toggleNavbar} href="/#events">Events</Nav.Link>
                     <Nav.Link onSelect={this.toggleNavbar} href="/#officers">Officers</Nav.Link>
+                    <Nav.Link onSelect={this.toggleNavbar} href="/#awards">Awards</Nav.Link>
                     <Nav.Link onSelect={this.toggleNavbar} href="/#partners">Partners</Nav.Link>
                     <Nav.Link onSelect={this.toggleNavbar} href="/#units">Units</Nav.Link>
                     <Nav.Link onSelect={this.toggleNavbar} href="/#about">About</Nav.Link>

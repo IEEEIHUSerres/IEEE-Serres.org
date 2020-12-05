@@ -24,7 +24,7 @@ class About extends Component {
                             Communication Engineering, who wanted to do scientific research through the IEEE,
                             participate in competitions and organize lectures for all students.
                         </div>
-                        <div className="about-image">
+                        <div className="image">
                             <img className="img-fluid" src={ieeeTeiSerresLogo} alt="IEEE Student Branch TEI Serres"/>
                         </div>
                         <div className="about-text">
@@ -34,7 +34,7 @@ class About extends Component {
                             competitions through research projects and papers (IEEE ComSoc Student Competition, IEEE
                             Region 8 Student Paper Contest).
                         </div>
-                        <div className="about-image">
+                        <div className="image">
                             <img className="img-fluid" src={ieeeTeicm} alt="IEEE Student Branch TEI Central Macedonia"/>
                         </div>
                         <div className="about-text">
@@ -44,7 +44,7 @@ class About extends Component {
                             IEEE Student Branch - International Hellenic University in Thessaloniki Campus is
                             essentially one team as IEEE Student Branch - International Hellenic University.
                         </div>
-                        <div className="about-image">
+                        <div className="image">
                             <img className="img-fluid" src={ieeeIhu} alt="IEEE Student Branches International Hellenic University"/>
                         </div>
                         <div className="about-text">

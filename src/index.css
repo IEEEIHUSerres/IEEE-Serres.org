@@ -17,16 +17,20 @@ body {
 }
 
 .segment-slider {
-    margin-bottom: -5em;
+    margin-bottom: -6em;
 }
 
 .segment-container {
-    padding-top: 8em;
-    padding-bottom: 8em;
+    padding-top: 5em;
 }
 
 @media only screen and (max-width: 992px) {
+    .segment-slider {
+        margin-bottom: -24em;
+    }
+
     .segment-container {
         padding-top: 24em;
+        margin-bottom: -18em;
     }
 }

@@ -10,7 +10,7 @@ class Officer extends Component {
             <Col sm={4} className="officer">
                 <Row>
                     <Col>
-                        <img className="image" src={image} alt={name}/>
+                        <img className="image img-fluid" src={image} alt={name}/>
                     </Col>
                 </Row>
                 <Row>

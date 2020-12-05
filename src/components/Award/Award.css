@@ -1,12 +1,12 @@
-.new {
+.award {
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
-.new > .card-body > .card-title {
+.award > .card-body > .card-title {
     min-height: 4em;
 }
 
-.new > .card-body > .card-text {
+.award > .card-body > .card-text {
     min-height: 7em;
 }

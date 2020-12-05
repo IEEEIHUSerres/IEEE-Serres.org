@@ -4,8 +4,7 @@
 }
 
 .officer > .row > .col > .image {
-    width: 10em;
-    height: 10em;
+    max-width: 8em;
     border-radius: 50%;
 }
 

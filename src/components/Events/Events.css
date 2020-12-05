@@ -1,14 +1,14 @@
-.news > .row > .col.title {
+.events > .row > .col.title {
     margin: 1em;
     font-size: 2em;
     text-align: center;
 }
 
-.news > div.row.card-group > div.col-sm-4 {
+.events > div.row.card-group > div.col-sm-4 {
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
-.news {
+.events {
     margin: 1em;
 }

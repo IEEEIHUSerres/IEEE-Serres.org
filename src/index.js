@@ -13,6 +13,8 @@ import Officers from "./components/Officers/Officers";
 import Partners from "./components/Partners/Partners";
 import Units from "./components/Units/Units";
 import About from "./components/About/About";
+import Events from "./components/Events/Events";
+import Awards from "./components/Awards/Awards";
 
 class App extends Component {
     render() {
@@ -29,9 +31,19 @@ class App extends Component {
                         <News/>
                     </Col>
                 </Row>
+                <Row id={"events"} className="segment-container">
+                    <Col>
+                        <Events/>
+                    </Col>
+                </Row>
                 <Row id={"officers"} className="segment-container">
                     <Col>
                         <Officers/>
+                    </Col>
+                </Row>
+                <Row id={"awards"} className="segment-container">
+                    <Col>
+                        <Awards/>
                     </Col>
                 </Row>
                 <Row id={"partners"} className="segment-container">
@@ -49,7 +61,7 @@ class App extends Component {
                         <About/>
                     </Col>
                 </Row>
-                <Row>
+                <Row className="segment-container">
                     <Col>
                         <Footer/>
                     </Col>

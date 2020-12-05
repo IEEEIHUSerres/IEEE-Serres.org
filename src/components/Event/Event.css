@@ -1,0 +1,17 @@
+.event {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.event > .card-body > .card-title {
+    min-height: 2em;
+}
+
+.event > .card-body > .title {
+    min-height: 1em;
+    margin-bottom: 1em;
+}
+
+.event > .card-body > .card-text {
+    min-height: 7em;
+}
