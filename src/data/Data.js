@@ -185,7 +185,7 @@ export class Data {
             },
             {
                 "title": "We earn the IEEE Regional Exemplary Student Branch Award 2019",
-                "content": "Our branches (Thessaloni and Serres), alongside with 6 other Greek branches, won the " +
+                "content": "Our branches (Thessaloniki and Serres), alongside with 6 other Greek branches, won the " +
                     "IEEE Exemplary Student Branch Award.",
                 "image": ieeeSbAwardImage2019,
                 "link": "https://region8today.ieeer8.org/volunteer-news/41-exemplary-student-branches-in-region-8/",
