@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import Card from "react-bootstrap/cjs/Card";
-import Button from "react-bootstrap/cjs/Button";
 
 import './Award.css'
 

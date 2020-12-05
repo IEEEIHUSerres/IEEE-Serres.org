@@ -45,7 +45,8 @@ class About extends Component {
                             essentially one team as IEEE Student Branch - International Hellenic University.
                         </div>
                         <div className="image">
-                            <img className="img-fluid" src={ieeeIhu} alt="IEEE Student Branches International Hellenic University"/>
+                            <img className="img-fluid" src={ieeeIhu}
+                                 alt="IEEE Student Branches International Hellenic University"/>
                         </div>
                         <div className="about-text">
                             Due to the ease of operations and due to the large geographical distance

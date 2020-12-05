@@ -9,16 +9,21 @@ import IEEESBAffiliates from "../IEEESBAffiliates/IEEESBAffiliates";
 
 class Footer extends Component {
     render() {
+        const {
+            affiliatesData: affiliates,
+            sbFooterNavBarData: sbFooterNavBar,
+            sbSocialData
+        } = this.props
         return (
             <span>
                 <Row>
                     <Col sm><IEEEAbout/></Col>
-                    <Col sm><IEEESBContactInfo/></Col>
-                    <Col sm><IEEESBAffiliates/></Col>
+                    <Col sm><IEEESBContactInfo sbSocialData={sbSocialData}/></Col>
+                    <Col sm><IEEESBAffiliates data={affiliates}/></Col>
                 </Row>
                 <Row>
                     <Col className="text-center">
-                        <IEEESBFooterNavBar/>
+                        <IEEESBFooterNavBar data={sbFooterNavBar}/>
                         <Copyright/>
                     </Col>
                 </Row>

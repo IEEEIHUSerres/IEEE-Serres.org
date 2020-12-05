@@ -7,13 +7,18 @@ import IEEESBNavBarItems from "../IEEESBNavBarItems/IEEESBNavBarItems";
 
 class NavBar extends Component {
     render() {
+        const {
+            ieeeNavBarItemsData: ieeeNavBarItems,
+            sbNavBarItemsData: sbNavBarItems,
+            sbSocialItemsData: sbSocialItems
+        } = this.props;
         return (
             <span>
-                <IEEENavBar/>
+                <IEEENavBar data={ieeeNavBarItems}/>
                 <Navbar bg="white" expand="lg" sticky={"top"}>
                     <IEEESBLogo/>
                     <Navbar.Toggle aria-controls="basic-navbar-nav"/>
-                    <IEEESBNavBarItems/>
+                    <IEEESBNavBarItems sbNavBarItemsData={sbNavBarItems} sbSocialData={sbSocialItems}/>
                 </Navbar>
             </span>
         );

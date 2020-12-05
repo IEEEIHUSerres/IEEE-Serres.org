@@ -8,6 +8,7 @@ import {faMailBulk, faMapMarked, faMobile} from "@fortawesome/free-solid-svg-ico
 
 class IEEESBContactInfo extends Component {
     render() {
+        const {sbSocialData: sbSocialItems} = this.props
         return (
             <div className="contact">
                 <div className="title">Contact With Us</div>
@@ -54,7 +55,7 @@ class IEEESBContactInfo extends Component {
                 </div>
                 <Row>
                     <Col className="text-center">
-                        <IEEESBSocial/>
+                        <IEEESBSocial data={sbSocialItems}/>
                     </Col>
                 </Row>
             </div>

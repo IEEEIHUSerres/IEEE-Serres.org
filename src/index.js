@@ -15,45 +15,65 @@ import Units from "./components/Units/Units";
 import About from "./components/About/About";
 import Events from "./components/Events/Events";
 import Awards from "./components/Awards/Awards";
+import {Data} from "./data/Data";
 
 class App extends Component {
     render() {
+        const data = new Data()
+
+        const ieeeNavBar = data.getIeeeNavBar();
+        const sbNavBar = data.getSbNavBar()
+        const sbSocial = data.getSbSocial()
+        const slides = data.getSlides();
+        const news = data.getNews()
+        const events = data.getEvents()
+        const officers = data.getOfficers()
+        const awards = data.getAwards()
+        const partners = data.getPartners()
+        const units = data.getUnits()
+        const affiliates = data.getAffiliates()
+        const sbFooterNavBar = data.getSbFooterNavBar()
+
         return <Container>
-            <NavBar/>
+            <NavBar
+                ieeeNavBarItemsData={ieeeNavBar}
+                sbNavBarItemsData={sbNavBar}
+                sbSocialItemsData={sbSocial}
+            />
             <div className="main-body">
                 <Row id="slider" className="segment-slider">
                     <Col>
-                        <Slider/>
+                        <Slider data={slides}/>
                     </Col>
                 </Row>
                 <Row id={"news"} className="segment-container">
                     <Col>
-                        <News/>
+                        <News data={news}/>
                     </Col>
                 </Row>
                 <Row id={"events"} className="segment-container">
                     <Col>
-                        <Events/>
+                        <Events data={events}/>
                     </Col>
                 </Row>
                 <Row id={"officers"} className="segment-container">
                     <Col>
-                        <Officers/>
+                        <Officers data={officers}/>
                     </Col>
                 </Row>
                 <Row id={"awards"} className="segment-container">
                     <Col>
-                        <Awards/>
+                        <Awards data={awards}/>
                     </Col>
                 </Row>
                 <Row id={"partners"} className="segment-container">
                     <Col>
-                        <Partners/>
+                        <Partners data={partners}/>
                     </Col>
                 </Row>
                 <Row id={"units"} className="segment-container">
                     <Col>
-                        <Units/>
+                        <Units data={units}/>
                     </Col>
                 </Row>
                 <Row id={"about"} className="segment-container">
@@ -63,7 +83,11 @@ class App extends Component {
                 </Row>
                 <Row className="segment-container">
                     <Col>
-                        <Footer/>
+                        <Footer
+                            affiliatesData={affiliates}
+                            sbFooterNavBarData={sbFooterNavBar}
+                            sbSocialData={sbSocial}
+                        />
                     </Col>
                 </Row>
             </div>
