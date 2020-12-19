@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9edfea26c671eb46d55cd3b294a43d27",
+    "revision": "e8b7b6641f27f95169004abf9c75d298",
     "url": "/index.html"
   },
   {
-    "revision": "0e267942dce765e87227",
+    "revision": "6d7c5d98aa821fc3190c",
     "url": "/static/css/2.9eab568d.chunk.css"
   },
   {
-    "revision": "efda8314cafce4087e5d",
+    "revision": "b7e041fb7df84b4df496",
     "url": "/static/css/main.66ce4e5d.chunk.css"
   },
   {
-    "revision": "0e267942dce765e87227",
-    "url": "/static/js/2.039006f5.chunk.js"
+    "revision": "6d7c5d98aa821fc3190c",
+    "url": "/static/js/2.7c3384c2.chunk.js"
   },
   {
     "revision": "75f4333d59702b455e64b78dd9666cfb",
-    "url": "/static/js/2.039006f5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.7c3384c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "efda8314cafce4087e5d",
-    "url": "/static/js/main.f9cfd5e2.chunk.js"
+    "revision": "b7e041fb7df84b4df496",
+    "url": "/static/js/main.a25d5874.chunk.js"
   },
   {
     "revision": "bb6c5badedce47c68f41",
     "url": "/static/js/runtime-main.2023949c.js"
+  },
+  {
+    "revision": "ce9cc38f940e01fc63f303ba62148784",
+    "url": "/static/media/2nd-greece-section-sbs-meetup.ce9cc38f.webp"
   },
   {
     "revision": "b81cd5d70f91ffac1e0d9dab393e8c58",
