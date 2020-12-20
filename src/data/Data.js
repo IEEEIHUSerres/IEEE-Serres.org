@@ -11,6 +11,7 @@ import ieeeHsyp2019 from "../resources/news/ieee-hsyp-2019.webp";
 import tif2019 from "../resources/news/tif-2019.webp";
 import ieeeSbAwardImage2019 from "../resources/news/ieee-sb-award-2019.webp";
 import ieeeDay2020 from "../resources/events/ieee-day-2020.webp";
+import secondGreeceSectionSbsMeetup from "../resources/events/2nd-greece-section-sbs-meetup.webp"
 import ieeeXtremeCodeTalk2020 from "../resources/events/ieeextreme-code-talk-2020.webp";
 import hashCode2020 from "../resources/events/hashcode-2020.webp";
 import howILearnedToStopWorryingAboutGps from "../resources/events/How-I-Learned-to-Stop-Worrying-About-GPS.webp";
@@ -196,6 +197,16 @@ export class Data {
 
     getEvents() {
         return [
+            {
+                "title": "2nd IEEE Greece Section SBs Meetup",
+                "content": "The IEEE Greece Section celebrates 50 years of service with " +
+                    "a series of online events organised by its Chapters, " +
+                    "Affinity Groups, and Student Branches!",
+                "image": secondGreeceSectionSbsMeetup,
+                "link": "https://bit.ly/3nApTpM",
+                "buttonTitle": "Register Form",
+                "date": "2020-12-22T16:00:00+00:00"
+            },
             {
                 "title": "IEEE Day 2020",
                 "content": "The IEEE Student Branch of the International Hellenic University " +
