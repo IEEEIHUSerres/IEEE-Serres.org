@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.66ce4e5d.chunk.css",
-    "main.js": "/static/js/main.a25d5874.chunk.js",
-    "main.js.map": "/static/js/main.a25d5874.chunk.js.map",
+    "main.css": "/static/css/main.06459874.chunk.css",
+    "main.js": "/static/js/main.58780b23.chunk.js",
+    "main.js.map": "/static/js/main.58780b23.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2023949c.js",
     "runtime-main.js.map": "/static/js/runtime-main.2023949c.js.map",
-    "static/css/2.9eab568d.chunk.css": "/static/css/2.9eab568d.chunk.css",
-    "static/js/2.7c3384c2.chunk.js": "/static/js/2.7c3384c2.chunk.js",
-    "static/js/2.7c3384c2.chunk.js.map": "/static/js/2.7c3384c2.chunk.js.map",
+    "static/css/2.c5d88326.chunk.css": "/static/css/2.c5d88326.chunk.css",
+    "static/js/2.d0b4e652.chunk.js": "/static/js/2.d0b4e652.chunk.js",
+    "static/js/2.d0b4e652.chunk.js.map": "/static/js/2.d0b4e652.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.edac3b01fa0497a22e18ccecbaf328c3.js": "/precache-manifest.edac3b01fa0497a22e18ccecbaf328c3.js",
+    "precache-manifest.9981a35288f719db1d4f95e22ea68f3d.js": "/precache-manifest.9981a35288f719db1d4f95e22ea68f3d.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.9eab568d.chunk.css.map": "/static/css/2.9eab568d.chunk.css.map",
-    "static/css/main.66ce4e5d.chunk.css.map": "/static/css/main.66ce4e5d.chunk.css.map",
-    "static/js/2.7c3384c2.chunk.js.LICENSE.txt": "/static/js/2.7c3384c2.chunk.js.LICENSE.txt",
+    "static/css/2.c5d88326.chunk.css.map": "/static/css/2.c5d88326.chunk.css.map",
+    "static/css/main.06459874.chunk.css.map": "/static/css/main.06459874.chunk.css.map",
+    "static/js/2.d0b4e652.chunk.js.LICENSE.txt": "/static/js/2.d0b4e652.chunk.js.LICENSE.txt",
     "static/media/2nd-greece-section-sbs-meetup.webp": "/static/media/2nd-greece-section-sbs-meetup.ce9cc38f.webp",
     "static/media/3rd-Summer-Engineering-Academy.webp": "/static/media/3rd-Summer-Engineering-Academy.b81cd5d7.webp",
     "static/media/Efstathiou.webp": "/static/media/Efstathiou.6a3075db.webp",
@@ -43,6 +43,7 @@
     "static/media/ihu-robotics.webp": "/static/media/ihu-robotics.ca5039b5.webp",
     "static/media/ihu.webp": "/static/media/ihu.79aa2d37.webp",
     "static/media/kotsovolos-hermes.webp": "/static/media/kotsovolos-hermes.d8ed932e.webp",
+    "static/media/mechanical-article-uth.webp": "/static/media/mechanical-article-uth.d2d4c58f.webp",
     "static/media/networks.webp": "/static/media/networks.c1022d21.webp",
     "static/media/programming.webp": "/static/media/programming.7674d3a3.webp",
     "static/media/robotics.webp": "/static/media/robotics.e84b69a2.webp",
@@ -55,9 +56,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2023949c.js",
-    "static/css/2.9eab568d.chunk.css",
-    "static/js/2.7c3384c2.chunk.js",
-    "static/css/main.66ce4e5d.chunk.css",
-    "static/js/main.a25d5874.chunk.js"
+    "static/css/2.c5d88326.chunk.css",
+    "static/js/2.d0b4e652.chunk.js",
+    "static/css/main.06459874.chunk.css",
+    "static/js/main.58780b23.chunk.js"
   ]
 }
