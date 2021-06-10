@@ -4,6 +4,7 @@ import networkingTeam from "../resources/slider/networks.webp";
 import hardwareTeam from "../resources/slider/electronics.webp";
 import roboticsTeam from "../resources/slider/robotics.webp";
 import socialMediaTeam from "../resources/slider/social.webp";
+import mechanicalArticleUth from "../resources/news/mechanical-article-uth.webp";
 import ieeeSbAwardImage2020 from "../resources/news/ieee-sb-award-2020.webp";
 import summerAcademyEnginneringImage from "../resources/news/3rd-Summer-Engineering-Academy.webp";
 import kotsovolosHermesImage from "../resources/news/kotsovolos-hermes.webp";
@@ -143,6 +144,13 @@ export class Data {
 
     getNews() {
         return [
+            {
+                "title": "Reinforcement learning for robotic exoskeleton control",
+                "content": "The mechanical article for HERMES Team from the IEEE University of Thessaly - Volos",
+                "image": mechanicalArticleUth,
+                "link": "https://ir.lib.uth.gr/xmlui/handle/11615/55689",
+                "buttonTitle": "Open in Institutional Repository"
+            },
             {
                 "title": "We earn the IEEE Regional Exemplary Student Branch Award 2020",
                 "content": "Our branch, alongside with 6 other Greek branches, won the " +
